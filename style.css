@@ -1,0 +1,31 @@
+.n1
+{
+    font-size: 25px;
+    text-align: center;
+}
+
+body
+{
+background-color: rgb(190, 142, 150);
+}
+
+.img1
+{
+    height: 40vh;
+    margin-top: 20vh;
+}
+
+.btn
+{
+   background-color: rgb(20, 204, 143);
+   font-size: 30px;
+   border-radius: 10px;
+   margin-top: 8vh;
+   border-style: none;
+   box-shadow: 6px 6px 12px #646363 ;
+   cursor: pointer;
+   font-family: inherit;
+   width: 15vh;
+   height: 10vh;
+}   
+
